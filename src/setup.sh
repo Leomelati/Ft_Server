@@ -1,3 +1,3 @@
-apt update
-apt upgrade
-apt --assume-yes install nginx
+apt-get update
+apt-get upgrade
+apt-get --assume-yes install nginx
