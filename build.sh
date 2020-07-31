@@ -1,4 +1,4 @@
-docker rmi ft_server
 docker rm $(docker ps -a -f status=exited -q)
-docker build --tag ft_server .
-docker run -it -p 80:80 --name ft_server ft_server
+docker rmi ft_server
+docker build -t ft_server .
+docker run --name ft_server -it -p 80:80 ft_server
