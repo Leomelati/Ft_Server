@@ -1,4 +1,4 @@
-# Ft_Server - 42 São Paulo (WIP)
+# Ft_Server - 42 São Paulo
 ***This is a System Administration subject. You will discover Docker and you will set up your first web sever***
 
 The objective of this project is to introduce the Docker technology with a server runing several services at the same time.
